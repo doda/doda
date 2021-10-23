@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github.com/egonelbre/gophers/raw/master/.thumb/animation/2bit-sprite/demo.gif)
 <!--
 **dodafin/dodafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
