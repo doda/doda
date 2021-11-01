@@ -4,6 +4,12 @@
 
 <p><strong>Hi!</strong> I'm Dominik, a backend developer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
+
+- 🔭 I’m currently working on: [OctoTrends - Find trending GitHub repositories](https://octotrends.com/)
+- 👯 I’m looking to collaborate on: **hit me up**
+- 💬 Ask me about: board games, hiking, climbing, Go 😄 
+- ⚡ Fun fact: I started my first company at 17. We were repairing Xbox 360s with the <img src="https://i.imgur.com/Jpe0nC0.png" height=13 /> Red Ring of Death ☠️
+
 <h5>Tech I like:</h5>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?flat-square&logo=go&logoColor=white" />
@@ -19,3 +25,4 @@
 </p>
 <h5>Nice places I've been to:</h5>
 <p><a href="https://www.instagram.com/dominik_dario/" target="_blank"><img src="https://i.imgur.com/AcNpYJc.png" height=200/></a></p>
+
