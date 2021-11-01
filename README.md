@@ -5,7 +5,7 @@
 <p><strong>Hi!</strong> I'm Dominik, a backend developer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
 
-- 🔭 I’m currently working on: <a href="https://octotrends.com/" target="_blank">OctoTrends - Find trending GitHub repositories</a>
+- 🔭 I’m currently working on: [OctoTrends - Find trending GitHub repositories](https://octotrends.com/)
 - 👯 I’m looking to collaborate on: **hit me up**
 - 💬 Ask me about: board games, hiking, climbing, Go 😄 
 - ⚡ Fun fact: I started my first company at 17. We were repairing Xbox 360s with the <img src="https://i.imgur.com/Jpe0nC0.png" height=13 /> Red Ring of Death ☠️
