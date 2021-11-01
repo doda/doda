@@ -2,7 +2,7 @@
 
 
 
-<p><strong>Hi!</strong> I'm Dominik, Backend developer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
+<p><strong>Hi!</strong> I'm Dominik, a backend developer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
 <h5>Tech I like:</h5>
 <p>
