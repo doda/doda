@@ -2,7 +2,7 @@
 
 
 
-<p><strong>Hi!</strong> I'm Dominik, a backend developer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
+<p><strong>Hi!</strong> I'm Dominik, a software engineer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
 
 - 🔭 I’m currently working on: [OctoTrends - Find trending GitHub repositories](https://octotrends.com/)
