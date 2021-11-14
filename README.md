@@ -1,6 +1,3 @@
-![](https://github.com/egonelbre/gophers/raw/master/.thumb/animation/2bit-sprite/demo.gif)
-
-
 
 <p><strong>Hi!</strong> I'm Dominik, a software engineer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
