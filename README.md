@@ -10,6 +10,7 @@
 <h5>Tech I like:</h5>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?flat-square&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?flat-square&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?flat-square&logo=postgresql&logoColor=white" />
