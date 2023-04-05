@@ -2,7 +2,7 @@
 <p><strong>Hi!</strong> I'm Dominik, a software engineer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
 
-- 🔭 I’m currently working on: [OctoTrends - Find trending GitHub repositories](https://octotrends.com/)
+- 🔭 I’m currently working at: [Substack](http://substack.com/)
 - 👯 I’m looking to collaborate on: **hit me up**
 - 💬 Ask me about: board games, hiking, climbing 😄 
 - ⚡ Fun fact: I started my first company at 17. We were repairing Xbox 360s with the <img src="https://i.imgur.com/Jpe0nC0.png" height=13 /> Red Ring of Death ☠️
