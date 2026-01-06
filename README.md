@@ -2,8 +2,8 @@
 <p><strong>Hi!</strong> I'm Dominik, a software engineer from 🇦🇹 <b>Vienna, Austria</b>, currently living in 🇺🇸 <b>San Francisco, USA</b>. </p>
 
 
-- 🔭 I’m currently working as a systems engineer at [Substack](http://substack.com/)
-- 💬 Ask me about: jhanas, lifting, NAT gateways 😄 
+- 🔭 Until recently I was working as a systems engineer at [Substack](http://substack.com/)
+- 💬 Ask me about: jhanas, lifting, psychology, philosophy 😄 
 - ⚡ Fun fact: I started my first company at 17. We were repairing Xbox 360s with the <img src="https://i.imgur.com/Jpe0nC0.png" height=13 /> Red Ring of Death ☠️
 
 <h5>Tech I like:</h5>
